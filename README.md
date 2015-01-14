@@ -7,6 +7,6 @@ I will put up little programs here and there to see if people like my code.
 
 --IntChomp.rb is an Interactive gets.chomp program.
 
---FizzbuzzLOL.rb is an interactive Fizzbuzz program with an aditional variant of Fizzbuzz included called "LOL".
+--FizzbuzzLOL.rb is an interactive Fizzbuzz program with an additional variant of Fizzbuzz included called "LOL".
 
 
