@@ -40,7 +40,7 @@ elsif i1 == "No"
   puts "Why not? Run the program again..."
 
 else
-#If the user mispells anything or puts in the wrong answer, a different statement is displayed. FizzBuzz/LOL aborted.
+#If the user misspells anything or puts in the wrong answer, a different statement is displayed. FizzBuzz/LOL aborted.
   puts """
   That was a wrong answer. Put in Yes or No :)
   Now run the Program again :D
