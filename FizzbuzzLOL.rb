@@ -22,15 +22,15 @@ end
 
 #This is a modified Fizzbuzz program. I call it LOL!
 1.upto(1000) do |i|
-	if i % 2 == 0 and i % 3 == 0
-		puts "LOL"
-	elsif i % 2 == 0
-		puts "L"
-	elsif i % 3 == 0
-			puts "OL"
-	else
-		puts i
-	end
+  if i % 2 == 0 and i % 3 == 0
+    puts "LOL"
+  elsif i % 2 == 0
+    puts "L"
+  elsif i % 3 == 0
+    puts "OL"
+  else
+    puts i
+  end
 end
 
 puts "END"
