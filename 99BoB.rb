@@ -2,7 +2,7 @@
 #Here we go!
 puts; puts "   It's beer song time!"; puts
 #Integer definition
-def bottles(n)
+def bottles(i)
   i == 1 ? "#{i} bottle" : "#{i} bottles"
 end
 #Defining the Count
