@@ -9,4 +9,5 @@ I will put up little programs here and there to see if people like my code.
 
 --FizzbuzzLOL.rb is an interactive Fizzbuzz program with an additional variant of Fizzbuzz included called "LOL".
 
+--99Bob.rb is a basic "99 Bottles of Beer on the Wall" song that runs in your temrinal via text.
 
