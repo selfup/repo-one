@@ -11,3 +11,5 @@ I will put up little programs here and there to see if people like my code.
 
 --99BoB.rb is a basic "99 Bottles of Beer on the Wall" song that runs in your temrinal via text.
 
+--fizztest.rb is a simpler version of FizzbuzzLOL.rb and is a great way to get started. It also includes the "sleep()" function which will prove to be useful in the future!
+
