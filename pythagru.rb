@@ -15,12 +15,12 @@ end
 sleep(2)
 
 puts "What is a?"
-  a = gets.chomp.to_i
+  a = gets.chomp.to_f
 
 sleep(1)
 
 puts "What is b?"
-  b = gets.chomp.to_i
+  b = gets.chomp.to_f
 
 sleep(1)
 
@@ -32,8 +32,7 @@ require 'complex'
 include Math
 
 Complex(c2)
-sqrt(c2)
 
-puts "Your answer below:"
+puts "Your answer is below this line:"
 puts sqrt(c2)
 puts "There you go!"
