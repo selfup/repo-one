@@ -35,7 +35,7 @@ end
 
 puts "END"
 
-elsif i1 == "No"
+elsif i1 == "no" #lowercase "no" to fit with the downcase method
 #If the user puts "No" then the prompt puts out a statement. FizzbuzzLOL aborted.
   puts "Why not? Run the program again..."
 
