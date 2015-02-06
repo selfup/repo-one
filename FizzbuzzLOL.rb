@@ -1,9 +1,9 @@
 #Here the user gets a prompt. The user then types in Yes, No, or something else.
 print "Are you ready to BEGIN? (Yes/No): "
-i1 = gets.chomp
+i1 = gets.chomp.downcase #downcase method to prevent stopping the program if someone types in "yes"/"YES"/"yES"/etc..
 
 #IF FUnction
-if i1 == "Yes"
+if i1 == "yes" #lowercase "yes" to match the downcased i1 variable
 #If the user puts in "Yes" then FizzbuzzLOL begins.
 puts "BEGIN"
 
