@@ -4,9 +4,9 @@
 
 
 print "Do you know the value for a and b? (Yes/No)"
-  i1 = gets.chomp
+  i1 = gets.chomp.downcase
 
-if i1 == "Yes"
+if i1 == "yes"
   puts "Great! I will ask you what a and b are next."
 else
   puts "Once you find out the values for a and b, I can help you!"
