@@ -1,17 +1,8 @@
 # repo-one
 My first repo!
 
-This is going to be a way to catalog my progress while learning Ruby.
+I am going to catalog Ruby and Arduino Progress in this repo.
 
-I will put up little programs here and there to see if people like my code.
+Just a way to keep track :)
 
---pythagru.rb is a math based ruby program that solves for c using the Pythagorean Theorem.
-
---IntChomp.rb is an Interactive gets.chomp program.
-
---FizzbuzzLOL.rb is an interactive Fizzbuzz program with an additional variant of Fizzbuzz included called "LOL".
-
---99BoB.rb is a basic "99 Bottles of Beer on the Wall" song that runs in your temrinal via text.
-
---fizztest.rb is a simpler version of FizzbuzzLOL.rb and is a great way to get started. It also includes the "sleep()" function which will prove to be useful in the future!
 
