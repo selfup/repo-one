@@ -4,7 +4,7 @@ print "How many cars do you see? "
 i2 = gets.chomp.to_i
 print "How many trucks are you avoiding right now? "
 i3 = gets.chomp.to_i
-print "Are you feeling courageous?"
+print "Are you feeling courageous? "
 i4 = gets.chomp.downcase
 
 if i4 == "yes"; i4 = 10000; else; i4 = 0; end
