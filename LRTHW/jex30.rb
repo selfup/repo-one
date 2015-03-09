@@ -27,7 +27,9 @@ else
     puts "Fine, let's stay home then."
 end
 
-if i4 == 10000
+if i4 >= 10000
     puts "Take it all"
+else
+    puts "Do what you feel is right"
 end
 
