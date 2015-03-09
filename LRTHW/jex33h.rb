@@ -7,12 +7,20 @@ print "First pick: "; i1 = gets.chomp.to_i; puts " "
 print "Second pick: "; i2 = gets.chomp.to_i; puts " "
 print "Third pick: "; i3 = gets.chomp.to_i; puts " "
 
-(50...70).each do |wut|
-  puts "Yea I'm feelin' #{wut}!"
+(50..70).each do |wut|
   empty.push(wut)
 end
 
+puts "Drawing numbers!"
 puts " "
+
+count = 201
+201.times do
+  count -= 1
+  print count.to_s + ".."
+end
+
+puts " "; puts " "
 
 sleep(5)
 
@@ -20,7 +28,9 @@ sleep(5)
 puts "The winning number might be: "
 empty.each { |wut| print " -#{wut}- " }; puts " "; puts " "
 
-puts "If you inputed #{empty[5]} you will win!..."; puts " "
+sleep(2)
+
+puts "If you inputed #{empty[5]} you will win!"; puts " "
 
 sleep(2)
 
