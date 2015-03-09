@@ -1,7 +1,3 @@
-h = ['brown', 'blond', 'red']
-e = ['brown', 'blue', 'green']
-w = [1, 2, 3, 4]
-
 c =  [1, 2, 3, 4, 5]
 f = ['apples', 'oranges', 'pear', 'apricaots']
 ch = [1, 'pennies', 2, 'dimes', 3, 'quarters']
