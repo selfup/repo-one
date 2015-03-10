@@ -1,5 +1,5 @@
-puts "give me a low number: "; i1 = gets.chomp.to_i
-puts "give me a high number"; i2 = gets.chomp.to_i
+print "give me a low number: "; i1 = gets.chomp.to_i; puts ""
+print "give me a high number "; i2 = gets.chomp.to_i; puts ""
 
 # empty array (a1) 
 a1 = []
