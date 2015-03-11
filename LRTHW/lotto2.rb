@@ -17,7 +17,7 @@ puts "#{a1}.."
 # choosing a random number to define a new variable
 # this number will be used to choose what pushed number to pull from the a1 array
 rn = prng.rand(i1..i2)
-sleep(2); puts"OK, thanks!"
+sleep(2); puts "OK, thanks!"
 puts "Now give me your best guess as to what number will be drawn... "; i3 = gets.chomp.to_i
 sleep(2); puts "The number is: #{a1[rn]}"; sleep(2)
 puts "Were you right?"; sleep(2)
