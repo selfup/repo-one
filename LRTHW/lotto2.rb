@@ -12,6 +12,8 @@ prng = Random.new
   a1.push(list)
 end
 
+puts "#{a1}.."
+
 # choosing a random number to define a new variable
 # this number will be used to choose what pushed number to pull from the a1 array
 rn = prng.rand(i1..i2)
