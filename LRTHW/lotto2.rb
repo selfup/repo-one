@@ -19,7 +19,8 @@ puts "#{a1}.."
 rn = prng.rand(i1..i2); rm = (rn - 1) # (rn - 1) ensures position is never outside of the array
 sleep(2); puts "OK, thanks!"
 puts "Now give me your best guess as to what number will be drawn... "; i3 = gets.chomp.to_i
+puts "Lucky you! I am going to give you two chances! Give me a second number to win with :) "; i4 = gets.chomp.to_i
 sleep(2); puts "The number is: #{a1[rm]}"; sleep(2)
 puts "Were you right?"; sleep(2)
 
-if i3 == a1[rn]; puts "NICE! YOU WERE RIGHT!"; else puts "Nooooope! Sorry!"; end
+if i3 == a1[rn]; puts "NICE! YOU WERE RIGHT!"; elsif i4 == a1[rn]; puts "Way to get it on your second try!"; else puts "Nooooope! Sorry!"; end
