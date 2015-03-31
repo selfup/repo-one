@@ -33,7 +33,7 @@ puts "Were you right?"; sleep(2)
 if i3 == a1[rn]; puts "NICE! YOU WERE RIGHT!"
   elsif i4 == a1[rn]; puts "Way to get it on your second try!"
   elsif i5 == a1[rn]; puts "WAY TO GET THE LUCKY THIRD GUESS!"
-  else; puts "Nooooope! Sorry!"; puts "TRY AGAIN!!!" 
+  else; puts "Nooooope! Sorry! :("; puts "TRY AGAIN!!!" 
 end
 
 # c9 edit --
