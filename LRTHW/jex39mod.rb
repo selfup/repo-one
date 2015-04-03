@@ -28,7 +28,7 @@ module Dict
     return -1, key, default
   end
 
-  def Dict.get(aDict, key default=nil)
+  def Dict.get(aDict, key, default=nil)
     # Gets the value in a bucket for the given key, or the default.
     i, k, v = Dict.get_slot(aDict, key, default=default)
     return v
