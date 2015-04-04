@@ -9,6 +9,15 @@ Edit: Taking a break from Arduino. Ruby is my main focus rn
 
     Working on a simple rails app
     Will be focusing more on OOP for ruby as well
-    
+
+# Got a simple Rails App running!
+
+Go to: http://rails.selfup.me
+
+    If it takes a second to load, it has not been fired up!
+    Once fired up, the redirect to Heroku and the Rails app will speed up
+    Enjoy it :)
+
+
 
 
