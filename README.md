@@ -18,6 +18,8 @@ Go to: http://rails.selfup.me
     Once fired up, the redirect to Heroku and the Rails app will speed up
     Enjoy it :)
 
+It is hosted on a private repo
+
 
 
 
