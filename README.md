@@ -24,6 +24,8 @@ Running on Heroku
 
 Developed on c9.io
 
+Pictures now on AWS S3!!!
+
 :)
 
 Work in progress
