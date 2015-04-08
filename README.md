@@ -19,6 +19,11 @@ Go to: http://rails.selfup.me
     Enjoy it :)
 
 It is hosted on a private repo
+Running on Heroku
+Developed on c9.io
+:)
+
+Work in progress
 
 
 
