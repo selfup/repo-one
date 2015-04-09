@@ -18,17 +18,19 @@ Go to: http://rails.selfup.me
     Once fired up, the redirect to Heroku and the Rails app will speed up
     Enjoy it :)
 
-It is hosted on a private repo
+* It is hosted on a private repo
 
-Running on Heroku
+* Running on Heroku
 
-Developed on c9.io
+* Developed on c9.io
 
-Pictures now on AWS S3!!!
+* Pictures now on AWS S3!!!
+
+* Work in progress!
 
 :)
 
-Work in progress
+
 
 
 
