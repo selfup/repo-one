@@ -3,6 +3,11 @@ My first repo!
 
 I am going to catalog Ruby and Arduino Progress in this repo.
 
+**Update: 5/4/2015**
+
+        I will be doing stuff in Javascript now :)
+
+
 Just a way to keep track :)
 
 Edit: Taking a break from Arduino. Ruby is my main focus rn
