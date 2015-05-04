@@ -33,7 +33,6 @@ Go to: http://rails.selfup.me
 
 * Work in progress!
 
-:)
 
 
 
