@@ -29,7 +29,8 @@ if (oddLy % 2 === 1)
 the number is odd because there is something left over
 after deviding it by 2!*/
 
-//Also remember that curly brackets are not needed for IF statements in JS. This will be a hard habit for me to break coming from ruby...//
+/*Also remember that curly brackets are not needed for IF statements in JS. 
+This will be a hard habit for me to break coming from ruby...*/
 
 if (oddLy % 2 === 1){
 	console.log('Odd!');
