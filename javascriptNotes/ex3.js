@@ -21,7 +21,16 @@ weight + "90"; /*or*/ weight + '32';
 /*When specifying a number for an Alert message, JS will turn
 it into a string so that it outputs correctly*/
 
+/*Also: using 1 as the first character for a variable is ILLEGAL.
+Use $ or _ but not a **number**. So for example..*/
 
+var  $_1 = 101;
+
+//Would be correct!//
+
+/*The only special characters that can be used for variables are ("$" and "_") so use them sparingly!*/
+
+//END//
 
 
 
