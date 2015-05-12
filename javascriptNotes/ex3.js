@@ -18,6 +18,9 @@ weight + "90"; /*or*/ weight + '32';
 
 16790 /*or*/ 16732
 
+/*When specifying a number for an Alert message, JS will turn
+it into a string so that it outputs correctly*/
+
 
 
 
