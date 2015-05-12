@@ -1,18 +1,18 @@
-var name = 'Mark';
+var name = 'John';
 
-//Now if I change my name to Ace//
+//Now if I change my name to Will//
 
 //And declare after the Mark var line//
 
-//Javascript will just print out Ace//
+//Javascript will just print out Will//
 
-//Example Ahead!//
+//Example Ahead!!!//
 
-var name = 'Ace';
+var name = 'Will';
 
 //I have now changed the variable (within the Global Scope)//
 
-//Javascript will forever think var "name" = 'Ace' until told otherwise//
+//Javascript will forever think var "name" = 'Will' until told otherwise//
 
 /*Once a varirable has been declared, you don't have to declare it again.
 You just assign a new vlaue to it.*/
@@ -24,17 +24,17 @@ nationality = 'U.S.';
 
 //This way you can understand your code in the future//
 
-var floogle = 'Mark';
+var floogle = 'John';
 
-var name = 'Mark';
+var name = 'John';
 
-var floogle = 'Mark';
+var floogle = 'John';
 
-var lessonAuthor = 'Mark';
-var guyWhoKeepsSayingHisOwnName = 'Mark';
-var x = 'Mark';
+var lessonAuthor = 'John';
+var guyWhoKeepsSayingHisOwnName = 'John';
+var x = 'John';
 
 var lastName = 'Smith';
-var cityOfOrigin = 'New Orleans';
+var cityOfOrigin = 'Boston';
 var aussieGreeting = "g'Day";
 
