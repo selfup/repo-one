@@ -1,6 +1,6 @@
 # THINGS are about to get strange...
 winning_number = []
-
+# inserting stuff
 puts "Guess a number between 1 and 200"; puts " "
 puts "I will give you three chances!"; puts " "
 print "First pick: "; i1 = gets.chomp.to_i; puts " "
