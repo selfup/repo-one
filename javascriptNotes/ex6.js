@@ -55,3 +55,12 @@ console.log(newNum);
 //I got 4 as an answer!//
 //Works :)//
 
+//After asking a question on stackoverflow..//
+
+//Turns out the proper way to increment via variable//
+
+//Is as follows://
+
+var newNum = num += num2;
+
+//Cool!//
