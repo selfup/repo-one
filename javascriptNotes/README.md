@@ -15,6 +15,10 @@ This will keep me motivated!
 
 **Try it out if you want**
 
+**Turns out JS style is similar to ruby with 2 spaces for tab**
+
+**I was unaware! Style will be implemented from now on**
+
 Nothing more to report for this README.
 
 
