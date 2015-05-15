@@ -6,4 +6,9 @@ for (var i = 0; i <= 4; i++) {
 	}
 }
 
+//similar to ruby//
+//conceptually the same//
+//prefer while loops..but I can dig this//
+
+
 
