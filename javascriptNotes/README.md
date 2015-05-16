@@ -12,14 +12,13 @@ This will keep me motivated!
 
 	set ruler laststatus=2 number title hlsearch mouse=a
  	2 syntax on
+	:set tabstop=2
 
 **Try it out if you want**
 
-**Turns out JS style is similar to ruby with 2 spaces for tab**
-
-**I was unaware! Style will be implemented from now on**
-
-**Also comments are to have spaces after the slashes...**
+	Turns out JS style is similar to ruby with 2 spaces for tab
+	I was unaware! Style will be implemented from now on
+	Also comments are to have spaces after the slashes...
 
 	Example:
 	// This is a proper comment //
