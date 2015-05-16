@@ -19,6 +19,12 @@ This will keep me motivated!
 
 **I was unaware! Style will be implemented from now on**
 
+**Also comments are to have spaces after the slashes...**
+
+	Example:
+	// This is a proper comment //
+	//This is bad m'kay//
+
 Nothing more to report for this README.
 
 
