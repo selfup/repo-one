@@ -13,6 +13,7 @@ I am going to catalog Ruby/JS/MEAN/HTML/CSS/Arduino Progress in this repo.
 Just a way to keep track :)
 
 Edit: Taking a break from Arduino. Ruby is my main focus rn
+
 **Update: This was a while ago!**
 
     Working on a simple rails app
