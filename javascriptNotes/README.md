@@ -7,6 +7,7 @@ I am using a resource to learn JS. I will catalog it as a project.
 This will keep me motivated!
 
 Update (05/16/2015) : I will be using a Ubuntu 15.4 VM on my Windows machine for a bit
+Update (05/16/2015) : Straight up Linux for today. Backing up OSX machine
 
 #My .vimrc
 
