@@ -21,4 +21,4 @@ for (var idx1 = 0; idx1 < firstNames.length; idx1++) {
 // I mainly use "i" for user INPUT no for 'loops' //
 // It might be more characters, but it is a bit more logical.. //
 
-
+// c9 setup for backup //
