@@ -3,6 +3,12 @@ My first repo!
 
 I am going to catalog Ruby/JS/MEAN/HTML/CSS/Arduino Progress in this repo.
 
+**Update: 5/20/2015**
+
+	Going to focus on bash commands
+	Need better flow 
+	Then back to languages
+
 **Update: 5/4/2015**
 
     I will be doing stuff in Javascript now :)
