@@ -14,7 +14,7 @@ Update (05/16/2015) : Straight up Linux for today. Backing up OSX machine
 **Nothing speacial but this is what I use:**
 
 	set ruler laststatus=2 number title hlsearch mouse=a
- 	2 syntax on
+ 	syntax on
 	:set tabstop=2
 
 **Try it out if you want**
