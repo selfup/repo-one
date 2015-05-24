@@ -27,7 +27,46 @@ Update (05/16/2015) : Straight up Linux for today. Backing up OSX machine
 	// This is a proper comment //
 	//This is bad m'kay//
 
-Nothing more to report for this README.
+#How to get Node for Ubuntu
+
+	$ dpkg --get-selections | grep node
+
+	$ sudo apt-get remove --purge node
+
+	$ sudo apt-get install nodejs
+	
+	$ sudo apt-get install npm
+
+	$ sudo ln -s /usr/bin/nodejs /usr/bin/node
+
+	$ node -v
+
+	$ npm -v
+
+Now to force update to the freshest version of everything:
+
+	$ sudo npm cache clean -f
+	$ sudo npm install -g n
+	$ sudo n stable
+	
+Then do:
+
+	$ sudo npm update
+
+
+Close Terminal, open a new one and do:
+
+	$ node -v
+
+	$ npm -v
+
+If the versions have not changed, just:
+
+	$ sudo reboot
+
+And you will be in business!
+
+**Nothing more to report for this README.**
 
 
               
