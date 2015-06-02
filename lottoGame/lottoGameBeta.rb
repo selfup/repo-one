@@ -4,10 +4,10 @@
 print "Gimme' a low number: "; i1 = gets.chomp.to_i
 print "Gimme' me a high number: "; i2 = gets.chomp.to_i
 
-# empty array (a1) 
+# empty array (a1)
 a1 = []
 
-# variable for Random.new 
+# variable for Random.new
 prng = Random.new
 
 # low to high number (i1..i2) - .each pushing to empty a1 array
@@ -34,8 +34,9 @@ puts "Were you right?"; sleep(2)
 if i3 == a1[rn]; puts "NICE! YOU WERE RIGHT!"
   elsif i4 == a1[rn]; puts "Way to get it on your second try!"
   elsif i5 == a1[rn]; puts "WAY TO GET THE LUCKY THIRD GUESS!"
-  else; puts "Nooooope! Sorry! :("; puts "TRY AGAIN!!!" 
+  else; puts "Nooooope! Sorry! :("; puts "TRY AGAIN!!!"
 end
 
 # c9 edit --
 
+# New machine!
