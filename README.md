@@ -3,6 +3,15 @@ My first repo!
 
 I am going to catalog Ruby/JS/MEAN/HTML/CSS/Arduino Progress in this repo.
 
+The following information is more a journal/log to see what has happened since my interest in programming.
+
+**Update: 06/20/2015**
+
+	Almost done with my Turing prework
+	I am in the 1507 cohort
+	Leave for Denver Tuesday
+	Been busy learning!
+
 **Update: 5/20/2015**
 
 	Going to focus on bash commands
