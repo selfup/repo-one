@@ -1,5 +1,14 @@
 # Basic Setup Instructions
 
+**Homebrew (Mac)**
+
+        ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+        brew doctor
+        brew install htop
+        brew update
+        brew upgrade --all
+        brew doctor
+
 **Screenshot Folder Mac**
 
     defaults write com.apple.screencapture location /Users/"User"/Pictures/Screenshots
