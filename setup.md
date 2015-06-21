@@ -9,18 +9,22 @@
         brew upgrade --all
         brew doctor
 
-**Screenshot Folder Mac**
+**Screenshot Folder (Mac)**
 
     defaults write com.apple.screencapture location /Users/"User"/Pictures/Screenshots
     killall SystemUIServer
     
 "User" after /Users/ is to be replaced by the User name
 
-**Basic Vim setup**
+**Basic Vim setup (Linux/Mac)**
 
+    cd
+    vim .vimrc
     set ruler laststatus=2 number title hlsearch mouse=a
     syntax on
     :set tabstop=2
+
+Now: Esc : wq
 
 # Ruby for Ubuntu
 
