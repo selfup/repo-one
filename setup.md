@@ -5,7 +5,7 @@
     defaults write com.apple.screencapture location /Users/"User"/Pictures/Screenshots
     killall SystemUIServer
     
-      "User" after /Users/ is to be replaced by the User name
+"User" after /Users/ is to be replaced by the User name
 
 **Basic Vim setup**
 
@@ -44,7 +44,7 @@
 
     $ sudo apt-get remove --purge node
 
-  $ sudo apt-get install nodejs
+    $ sudo apt-get install nodejs
 
     $ sudo apt-get install npm
 
