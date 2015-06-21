@@ -24,7 +24,17 @@
     syntax on
     :set tabstop=2
 
-Now: Esc : wq
+Now: "Esc : wq" and "Enter"
+
+**Basic Vim setup (Windows) with git-scm and Vim**
+
+    cd
+    vim _vimrc
+    set ruler laststatus=2 number title hlsearch mouse=a
+    syntax on
+    :set tabstop=2
+
+Now: "Esc : wq" and "Enter"
 
 # Ruby for Ubuntu
 
