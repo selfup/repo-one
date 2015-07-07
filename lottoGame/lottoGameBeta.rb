@@ -1,6 +1,6 @@
 # This is my beta for a simple Lotto Game :)
 # Strictly a Beta!
-
+# This is a test to show a friend :)
 print "Gimme' a low number: "; i1 = gets.chomp.to_i
 print "Gimme' me a high number: "; i2 = gets.chomp.to_i
 
