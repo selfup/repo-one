@@ -3,7 +3,6 @@ values = (1..1000).to_a.sample(100) #what
 sorted = []
 @sorted = sorted
 
-
 ############### Finds the middle point
 def mid_point(a)
   a.size / 2
