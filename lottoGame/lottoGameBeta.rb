@@ -1,3 +1,5 @@
+require 'pry'
+
 # This is my beta for a simple Lotto Game :)
 # Strictly a Beta!
 # This is a test to show a friend :)
@@ -17,9 +19,16 @@ end
 
 puts "#{a1}.."
 
+#binding.pry
+
 # choosing a random number to define a new variable
-# this number will be used to choose what pushed number to pull from the a1 array
-rn = prng.rand(i1..i2); rm = (rn - 1) # rm has to equal (rn -1) or else the variable will be too far over the array
+# this number will be used to choose what pushed number
+# to pull from the a1 array
+
+rn = prng.rand(i1..i2); rm = (rn - 1) 
+# rm has to equal (rn -1) or else
+# the variable will be too far over the array
+
 sleep(2)
 puts "OK, thanks!"
 sleep(2)
@@ -37,6 +46,5 @@ if i3 == a1[rn]; puts "NICE! YOU WERE RIGHT!"
   else; puts "Nooooope! Sorry! :("; puts "TRY AGAIN!!!"
 end
 
-# c9 edit --
+# Turing - Edit
 
-# New machine!
