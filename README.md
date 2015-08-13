@@ -5,6 +5,13 @@ I am going to catalog Ruby/JS/MEAN/HTML/CSS/Arduino Progress in this repo.
 
 The following information is more a journal/log to see what has happened since my interest in programming.
 
+**Update: 08/14/2015**
+
+	Passed Module 1 at Turing
+	Going to keep working on ruby
+	Will make a repo for progress on continuation of ruby
+
+
 **Update: 06/20/2015**
 
 	Almost done with my Turing prework
