@@ -1,1 +1,1 @@
-100.downto(1)do|i|;puts i;end
+100.downto(1){|i|p i}
