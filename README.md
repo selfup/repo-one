@@ -1,13 +1,12 @@
 # repo-one
 My first repo!
 
-I am going to catalog Ruby/JS/MEAN/HTML/CSS/Arduino Progress in this repo.
-
-I am currently interested in GoLang as well as Elixir. 
-
-Focused on learning JS and finishing the Hartl tutorial for Module 3 at Turing!
-
 The following information is more a journal/log to see what has happened since my interest in programming.
+
+**Update: 10/09/2015**
+
+	Going on to Module 3
+	Almost done with the Hartl Tutorial
 
 **Update: 08/14/2015**
 
