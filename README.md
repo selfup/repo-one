@@ -1,7 +1,7 @@
 # repo-one
 My first repo!
 
-Here are some of my Public Gists:
+*Here are some of my Public Gists:*
 
 ##### Setting up Ruby on Rails in a Vagrant managed VM: 
 [Vagrant Ruby on Rails Setup](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
