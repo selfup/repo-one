@@ -39,8 +39,7 @@ The following information is more a journal/log to see what has happened since m
 **Update: 5/4/2015**
 
     I will be doing stuff in Javascript now :)
-    I will be taking notes of a recource I am learning from
-    All 'notes' will be taken via vim and pushed in iTerm2
+    I will be taking notes of a resource I am learning from
 
 Just a way to keep track :)
 
