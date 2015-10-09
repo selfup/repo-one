@@ -1,4 +1,0 @@
-This is a test.
-Prelude
-Third Line
-4th line
