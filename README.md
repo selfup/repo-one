@@ -3,10 +3,10 @@ My first repo!
 
 Here are some of my Public Gists:
 
-Setting up Ruby on Rails in a Vagrant managed VM: 
+##### Setting up Ruby on Rails in a Vagrant managed VM: 
 [Vagrant Ruby on Rails Setup](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
 
-Setting up Ruby on Rails on a Ubuntu 15.04 VM:
+##### Setting up Ruby on Rails on a Ubuntu 15.04 VM:
 [Linux Ruby on Rails Setup](https://gist.github.com/selfup/a39a15daed26fd2e5b33)
 
 The following information is more a journal/log to see what has happened since my interest in programming.
