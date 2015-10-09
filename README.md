@@ -1,6 +1,14 @@
 # repo-one
 My first repo!
 
+Here are some of my Public Gists:
+
+Setting up Ruby on Rails in a Vagrant managed VM: 
+[Vagrant Ruby on Rails Setup](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
+
+Setting up Ruby on Rails on a Ubuntu 15.04 VM:
+[Linux Ruby on Rails Setup](https://gist.github.com/selfup/a39a15daed26fd2e5b33)
+
 The following information is more a journal/log to see what has happened since my interest in programming.
 
 **Update: 10/09/2015**
@@ -31,13 +39,12 @@ The following information is more a journal/log to see what has happened since m
 **Update: 5/4/2015**
 
     I will be doing stuff in Javascript now :)
-    The folder "javascriptNotes" will be a journal of sorts
     I will be taking notes of a recource I am learning from
     All 'notes' will be taken via vim and pushed in iTerm2
 
 Just a way to keep track :)
 
-Edit: Taking a break from Arduino. Ruby is my main focus rn
+Edit: Taking a break from Arduino. Ruby is my main focus right now
 
 **Update: This was a while ago!**
 
