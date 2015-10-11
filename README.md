@@ -6,6 +6,10 @@ My first repo!
 ##### Setting up Ruby on Rails in a Vagrant managed VM: 
 [Vagrant Ruby on Rails Setup](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
 
+##### Setting up Postgres and Git (shh access) in a DO Dprolet or a managed VM:
+
+[PG, Vagrant, DO, and git](https://gist.github.com/selfup/351e29d42591ce3c749f)
+
 ##### Setting up Ruby on Rails on a Ubuntu 15.04 VM:
 [Linux Ruby on Rails Setup](https://gist.github.com/selfup/a39a15daed26fd2e5b33)
 
