@@ -1,6 +1,12 @@
 # repo-one
 My first repo!
 
+#### Since my first repo has been made I have learned a lot!
+
+* I now consider myself more of a Backend/IoT/DevOps kind of developer
+* I will continue to work on my front end skills
+* I really enjoy this
+
 *Here are some of my Public Gists:*
 
 ##### Setting up Ruby on Rails in a Vagrant managed VM: 
