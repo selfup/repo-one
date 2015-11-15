@@ -6,6 +6,8 @@ My first repo!
 * I now consider myself more of a Backend/IoT/DevOps kind of developer
 * I will continue to work on my front end skills
 * I really enjoy this
+* I have a really complex network of ssh'ed machines that talk to each other
+
 
 *Here are some of my Public Gists:*
 
