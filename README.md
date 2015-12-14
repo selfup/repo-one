@@ -8,10 +8,13 @@ My first repo!
 * I really enjoy this
 * I have a really complex network of ssh'ed machines that talk to each other
 
+*My Blog!*
+
+[Medium Blog](https://medium.com/@rboudinot)
 
 *Here are some of my Public Gists:*
 
-##### Setting up Ruby on Rails in a Vagrant managed VM: 
+##### Setting up Ruby on Rails in a Vagrant managed VM:
 [Vagrant Ruby on Rails Setup](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
 
 ##### Setting up Postgres and Git (shh access) in a DO Dprolet or a managed VM:
@@ -45,7 +48,7 @@ The following information is more a journal/log to see what has happened since m
 **Update: 5/20/2015**
 
 	Going to focus on bash commands
-	Need better flow 
+	Need better flow
 	Then back to languages
 
 **Update: 5/4/2015**
@@ -79,10 +82,3 @@ Go to: http://rails.selfup.me
 * Pictures now on AWS S3!!!
 
 * Work in progress!
-
-
-
-
-
-
-
