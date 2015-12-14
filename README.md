@@ -3,10 +3,7 @@ My first repo!
 
 #### Since my first repo has been made I have learned a lot!
 
-* I now consider myself more of a Backend/IoT/DevOps kind of developer
-* I will continue to work on my front end skills
-* I really enjoy this
-* I have a really complex network of ssh'ed machines that talk to each other
+* I like Javacsript (ES6), React, Ruby, Rails, Python, C, IoT, Arduino, Raspberry Pi's, and Bash Scripting
 
 *My Blog!*
 
