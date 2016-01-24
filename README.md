@@ -1,6 +1,8 @@
 # repo-one
 My first repo!
 
+## I graduated Turing! What a good feeling. Learned more than I could have ever imagined. Went straight through!
+
 #### Since my first repo has been made I have learned a lot!
 
 * I like Javacsript (ES6), React, Ruby, Rails, Python, C, IoT, Arduino, Raspberry Pi's, and Bash Scripting
